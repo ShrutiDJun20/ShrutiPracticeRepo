@@ -3,6 +3,6 @@ package package2;
 public class Class1 {
 
 	void main(){
-		System.out.println("in branchX");
+		System.out.println("in branchY-2");
 	}
 }
